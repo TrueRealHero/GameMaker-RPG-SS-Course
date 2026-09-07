@@ -1,0 +1,25 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Managers","order":11,"path":"folders/Managers.yy",},
+    {"name":"ROOMS","order":10,"path":"folders/ROOMS.yy",},
+    {"name":"Scripts","order":8,"path":"folders/Scripts.yy",},
+    {"name":"Sprites","order":6,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oCamera","order":1,"path":"objects/oCamera/oCamera.yy",},
+    {"name":"oPlayer","order":5,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"Room1","order":1,"path":"rooms/Room1/Room1.yy",},
+    {"name":"rVillage","order":2,"path":"rooms/rVillage/rVillage.yy",},
+    {"name":"MACROS","order":3,"path":"scripts/MACROS/MACROS.yy",},
+    {"name":"scrCollision","order":1,"path":"scripts/scrCollision/scrCollision.yy",},
+    {"name":"scrShake","order":4,"path":"scripts/scrShake/scrShake.yy",},
+    {"name":"scrStates","order":2,"path":"scripts/scrStates/scrStates.yy",},
+    {"name":"sCollision","order":3,"path":"sprites/sCollision/sCollision.yy",},
+    {"name":"Sprite6","order":5,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"sRoll","order":4,"path":"sprites/sRoll/sRoll.yy",},
+    {"name":"sRun","order":2,"path":"sprites/sRun/sRun.yy",},
+    {"name":"sTestBackground","order":1,"path":"sprites/sTestBackground/sTestBackground.yy",},
+    {"name":"tsCollision","order":7,"path":"tilesets/tsCollision/tsCollision.yy",},
+    {"name":"tsVillage","order":9,"path":"tilesets/tsVillage/tsVillage.yy",},
+  ],
+}
